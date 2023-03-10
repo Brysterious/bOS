@@ -8,8 +8,7 @@
 		<Host>Windows 10 Pro (21H2) x64 - 10.0.19044.1288 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
-		<Version mode="offline">Windows 10 Professional (22H2) x64 - 10.0.19045.2006 (en-US)</Version>
-		<GUID>{9B7015D1-BC7D-45DA-BDE7-6C607A8CD38A}</GUID>
+		<Version mode="offline">Windows 10 Professional (22H2) x64 - 10.0.19045.2006 (en-US)</Version
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
 		<c>1527c705-839a-4832-9118-54d4Bd6a0c89 'File Picker'</c>
